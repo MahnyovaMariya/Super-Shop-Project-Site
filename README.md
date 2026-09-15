@@ -19,16 +19,16 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление бэкендом реализуется с помощью кастомного веб-интерфейса. В распоряжении администратора:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-просмотр информации по созданным заказам, присвоение им статусов, изменение состава заказа и его полной отмены
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-просмотр информации по созданным заказам, присвоение им статусов, изменение состава заказа и его полной отмены:
 <video src="https://github.com/user-attachments/assets/8d4379d3-6ac1-4cd9-8155-b85e87cdb791" width="600" controls></video>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-просмотр и удаление пользователей онлайн-магазина
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-просмотр и удаление пользователей онлайн-магазина:
 <video src="https://github.com/user-attachments/assets/d38064ab-7bae-4d3b-aa51-b1593e8ef244" width="600" controls></video>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-добавление/ удаление категорий товаров в базу данных/из базы данных, их просмотр и переименование, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-добавление/ удаление категорий товаров в базу данных/из базы данных, их просмотр и переименование: 
 <video src="https://github.com/user-attachments/assets/b5d81a4c-0e3d-4d0b-b1d4-5c73cbf1fccb" width="600" controls></video>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-добавление/удаление товаров категории в базу данных/из базы данных, их просмотр с возможностью редактирования конкретных реквизитов
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-добавление/удаление товаров категории в базу данных/из базы данных, их просмотр с возможностью редактирования конкретных реквизитов:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Демонстрация управления товарными данными](Видео/9.mp4)
 <video src="https://github.com/user-attachments/assets/ae75a6db-b191-4db3-b72c-a1c3a7861065" width="600" controls></video>
