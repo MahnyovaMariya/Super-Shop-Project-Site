@@ -18,6 +18,7 @@
 <video src="https://github.com/user-attachments/assets/0481a746-8be5-4c84-b4b6-b86722521835" width="600" controls></video>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Управление бэкендом реализуется с помощью кастомного веб-интерфейса. В распоряжении администратора:
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-просмотр информации по созданным заказам, присвоение им статусов, изменение состава заказа и его полной отмены
 <video src="https://github.com/user-attachments/assets/8d4379d3-6ac1-4cd9-8155-b85e87cdb791" width="600" controls></video>
 
